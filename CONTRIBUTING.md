@@ -1,6 +1,6 @@
 # Contributing to com.soulfiremc.soulfire
 
-This repository is the SoulFire organization fork of the Flatpak packaging manifest.
+This repository is the Soulfire organization fork of the Flatpak packaging manifest.
 This guide covers local development, validation, and pull requests.
 
 ## Before you start
