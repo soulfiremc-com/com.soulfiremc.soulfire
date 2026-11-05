@@ -1,6 +1,6 @@
-# SoulFire Flatpak packaging fork
+# Soulfire Flatpak packaging fork
 
-This repository is the SoulFire organization's fork of [flathub/com.soulfiremc.soulfire](https://github.com/flathub/com.soulfiremc.soulfire).
+This repository is the Soulfire organization's fork of [flathub/com.soulfiremc.soulfire](https://github.com/flathub/com.soulfiremc.soulfire).
 It contains the package manifest, its shared-module submodule, and a release update workflow.
 Application code belongs in [SoulFireClient](https://github.com/soulfiremc-com/SoulFireClient).
 

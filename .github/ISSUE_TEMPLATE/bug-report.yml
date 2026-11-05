@@ -1,5 +1,5 @@
 name: Bug report
-description: Report a reproducible problem with SoulFire Flatpak packaging.
+description: Report a reproducible problem with Soulfire Flatpak packaging.
 body:
 - type: markdown
   attributes:
